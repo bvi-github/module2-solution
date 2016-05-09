@@ -1,0 +1,41 @@
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+
+p {
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+section > div{
+  border: 1px solid #4D4D2E;
+  position: relative;
+  margin: 5px;
+  background-color: #ffffcc;
+}
+
+.section-title{
+	font-size: 1.5em;
+	font-weight: bold;
+	position: relative;
+	left: 65%;
+	width: 35%;
+	text-align: center;
+	border: solid #4D4D2E;
+	border-width: 0px 0px 1px 1px;
+}
+
+#chicken{
+	background-color: #D59898;
+}
+
+#beef{
+	background-color: #C14543;
+}
+
+#sushi{
+	background-color: #E5D198;
+}
