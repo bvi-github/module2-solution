@@ -1,24 +1,10 @@
 h1 {
-  margin-bottom: 15px;
+  margin-bottom: 1.75em;
   text-align: center;
 }
 
-
-p {
-  width: 95%;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-section > div{
-  border: 1px solid #4D4D2E;
-  position: relative;
-  margin: 5px;
-  background-color: #ffffcc;
-}
-
 .section-title{
-	font-size: 1.5em;
+	font-size: 1.25em;
 	font-weight: bold;
 	position: relative;
 	left: 65%;
@@ -38,4 +24,17 @@ section > div{
 
 #sushi{
 	background-color: #E5D198;
+}
+
+section > div{
+  border: 1px solid #4D4D2E;
+  position: relative;
+  margin: 5px;
+  background-color: #ffffcc;
+}
+
+p {
+  width: 95%;
+  margin-right: auto;
+  margin-left: auto;
 }
